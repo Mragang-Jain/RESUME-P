@@ -22,8 +22,8 @@ const Footer = ({ data }) => {
           <ul className="copyright">
             <li>
               Made by{" "}
-              <a title="Shankey" href="">
-               PAPA
+              <a title="Shankey" href="https://priyaj.netlify.app/">
+               Priya
               </a>
             </li>
           </ul>
