@@ -1,10 +1,10 @@
 {
   "main": {
     "name": "Priya Aheliya",
-    "occupation": "Financial Advisor",
+    "occupation": "Computer Operator",
     "description": "",
     "image": "profilepic.jpg",
-    "bio": "Hi there! I am Priya. You might also know me as Student. I've been working in LIC from last 2 months. As a Financial Advisor. I've worked both with startups and large corporations to help build & scale their companies. Along with the journey I realised my passion existed in helping others and to learn new Technology.",
+    "bio": "Hi there! I am Priya. You might also know me as Student. I've been working in LIC from last 2 months. As a Computer Operator. I've worked both with startups and large corporations to help build & scale their companies. Along with the journey I realised my passion existed in helping others and to learn new Technology.",
     "contactmessage": "Get in touch with me to know more about me!",
     "email": "priyaaheliya25@gmail.com",
     "phone": "+91 9131389117",
@@ -12,10 +12,10 @@
       "street": "House No.7 Devki Bhawan Durgachowk",
       "city": "Bhopal",
       "state": "Madhya Pradesh",
-      "zip": "462008"
+      "zip": "462001"
     },
     "website": "",
-    "resumedownload": "https://drive.google.com/file/d/1d68HmlRR2fB9Snjx1xf8W7fCvj62N1pK/view?usp=sharing",
+    "resumedownload": "https://drive.google.com/file/d/1YApBxnbv6FOuJEzdCly36JIRoboiQcCh/view?usp=sharing",
     "social": [
       {
         "name": "facebook",
@@ -52,7 +52,7 @@
     "work": [
       {
         "company": "LIC",
-        "title": "Financial Advisor",
+        "title": "Computer Operator",
         "years": "July 2021 - Present",
         "description": ""
       }
@@ -69,10 +69,6 @@
       {
         "name": "CSS",
         "level": "50%"
-      },
-      {
-        "name": "JAVA",
-        "level": "30%"
       },
       {
         "name": "JAVASCRIPT",
